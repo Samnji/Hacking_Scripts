@@ -1,0 +1,259 @@
+
+Host Name:                 SAM
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          DX
+Registered Organization:   
+Product ID:                00260-00000-00001-AA163
+Original Install Date:     3/2/2022, 9:10:48 AM
+System Boot Time:          6/20/2022, 9:49:52 PM
+System Manufacturer:       Hewlett-Packard
+System Model:              HP EliteBook 840 G1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~2701 Mhz
+BIOS Version:              Hewlett-Packard L71 Ver. 01.30, 12/9/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+03:00) Nairobi
+Total Physical Memory:     7,865 MB
+Available Physical Memory: 1,244 MB
+Virtual Memory: Max Size:  12,985 MB
+Virtual Memory: Available: 2,580 MB
+Virtual Memory: In Use:    10,405 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\SAM
+Hotfix(s):                 196 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2959936
+                           [03]: KB917607
+                           [04]: KB2894852
+                           [05]: KB2898847
+                           [06]: KB2898850
+                           [07]: KB2919355
+                           [08]: KB2920189
+                           [09]: KB2931358
+                           [10]: KB2931366
+                           [11]: KB2937220
+                           [12]: KB2938772
+                           [13]: KB2939153
+                           [14]: KB2949621
+                           [15]: KB2954879
+                           [16]: KB2958262
+                           [17]: KB2958263
+                           [18]: KB2961072
+                           [19]: KB2962140
+                           [20]: KB2965142
+                           [21]: KB2965500
+                           [22]: KB2966407
+                           [23]: KB2966826
+                           [24]: KB2966828
+                           [25]: KB2967917
+                           [26]: KB2968296
+                           [27]: KB2968599
+                           [28]: KB2971203
+                           [29]: KB2972103
+                           [30]: KB2973351
+                           [31]: KB2975061
+                           [32]: KB2976627
+                           [33]: KB2976978
+                           [34]: KB2977629
+                           [35]: KB2978002
+                           [36]: KB2981580
+                           [37]: KB2987107
+                           [38]: KB2989647
+                           [39]: KB2989930
+                           [40]: KB2990967
+                           [41]: KB2994290
+                           [42]: KB2995518
+                           [43]: KB2998527
+                           [44]: KB2999226
+                           [45]: KB3000483
+                           [46]: KB3000850
+                           [47]: KB3001237
+                           [48]: KB3003057
+                           [49]: KB3003667
+                           [50]: KB3004545
+                           [51]: KB3011110
+                           [52]: KB3012235
+                           [53]: KB3012702
+                           [54]: KB3013172
+                           [55]: KB3013531
+                           [56]: KB3013538
+                           [57]: KB3013769
+                           [58]: KB3013791
+                           [59]: KB3013816
+                           [60]: KB3014176
+                           [61]: KB3014442
+                           [62]: KB3015696
+                           [63]: KB3018133
+                           [64]: KB3019978
+                           [65]: KB3020370
+                           [66]: KB3020393
+                           [67]: KB3023219
+                           [68]: KB3024751
+                           [69]: KB3024755
+                           [70]: KB3029606
+                           [71]: KB3030947
+                           [72]: KB3031044
+                           [73]: KB3031989
+                           [74]: KB3033446
+                           [75]: KB3036612
+                           [76]: KB3037576
+                           [77]: KB3038002
+                           [78]: KB3042085
+                           [79]: KB3044374
+                           [80]: KB3044673
+                           [81]: KB3045634
+                           [82]: KB3045685
+                           [83]: KB3045717
+                           [84]: KB3045719
+                           [85]: KB3045999
+                           [86]: KB3046017
+                           [87]: KB3046339
+                           [88]: KB3046480
+                           [89]: KB3046737
+                           [90]: KB3047254
+                           [91]: KB3048803
+                           [92]: KB3053863
+                           [93]: KB3053946
+                           [94]: KB3054256
+                           [95]: KB3054464
+                           [96]: KB3055323
+                           [97]: KB3056347
+                           [98]: KB3059317
+                           [99]: KB3060793
+                           [100]: KB3061493
+                           [101]: KB3061512
+                           [102]: KB3062760
+                           [103]: KB3063843
+                           [104]: KB3064059
+                           [105]: KB3064209
+                           [106]: KB3071756
+                           [107]: KB3072307
+                           [108]: KB3074545
+                           [109]: KB3076949
+                           [110]: KB3077715
+                           [111]: KB3078405
+                           [112]: KB3080149
+                           [113]: KB3080800
+                           [114]: KB3084135
+                           [115]: KB3084905
+                           [116]: KB3086255
+                           [117]: KB3087137
+                           [118]: KB3091297
+                           [119]: KB3094486
+                           [120]: KB3096438
+                           [121]: KB3097992
+                           [122]: KB3100473
+                           [123]: KB3102429
+                           [124]: KB3103616
+                           [125]: KB3103696
+                           [126]: KB3103709
+                           [127]: KB3109103
+                           [128]: KB3109560
+                           [129]: KB3109976
+                           [130]: KB3110329
+                           [131]: KB3115224
+                           [132]: KB3121261
+                           [133]: KB3126030
+                           [134]: KB3126434
+                           [135]: KB3126587
+                           [136]: KB3127222
+                           [137]: KB3133043
+                           [138]: KB3133690
+                           [139]: KB3137728
+                           [140]: KB3138602
+                           [141]: KB3138615
+                           [142]: KB3138910
+                           [143]: KB3138962
+                           [144]: KB3139914
+                           [145]: KB3140185
+                           [146]: KB3140219
+                           [147]: KB3140234
+                           [148]: KB3145384
+                           [149]: KB3145432
+                           [150]: KB3146604
+                           [151]: KB3146723
+                           [152]: KB3146751
+                           [153]: KB3147071
+                           [154]: KB3150513
+                           [155]: KB3156059
+                           [156]: KB3159398
+                           [157]: KB3161102
+                           [158]: KB3161949
+                           [159]: KB3166740
+                           [160]: KB3172614
+                           [161]: KB3173424
+                           [162]: KB3175024
+                           [163]: KB3178539
+                           [164]: KB3184143
+                           [165]: KB3185319
+                           [166]: KB4014551
+                           [167]: KB4016754
+                           [168]: KB4040981
+                           [169]: KB4054999
+                           [170]: KB4462930
+                           [171]: KB4486105
+                           [172]: KB4532940
+                           [173]: KB4532946
+                           [174]: KB4535680
+                           [175]: KB4537482
+                           [176]: KB4552933
+                           [177]: KB4552982
+                           [178]: KB4556853
+                           [179]: KB4561600
+                           [180]: KB4561673
+                           [181]: KB4562253
+                           [182]: KB5001027
+                           [183]: KB5001403
+                           [184]: KB5008868
+                           [185]: KB5010419
+                           [186]: KB5010462
+                           [187]: KB5011564
+                           [188]: KB5012124
+                           [189]: KB5012139
+                           [190]: KB5012670
+                           [191]: KB5012672
+                           [192]: KB5013631
+                           [193]: KB5013638
+                           [194]: KB5014025
+                           [195]: KB5014633
+                           [196]: KB5014738
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection I218-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-N 7260
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.43.167
+                                 IP address(es)
+                                 [01]: 192.168.43.128
+                                 [02]: fe80::2d91:1b4c:4f1c:f645
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.52.1
+                                 [02]: fe80::e5df:96c:d8e1:ec93
+                           [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.5.1
+                                 [02]: fe80::b5ff:2f74:b464:ca43
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
