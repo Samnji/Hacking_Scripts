@@ -34,7 +34,7 @@ print('-' * 50)
 if len(sys.argv) == 2: # Counts the number of system arguments parsed in, while the you run the program
 	macChanger()
 
-elif len(sys.argv) ==3:
+elif len(sys.argv) ==5:
 	macChanger()
 
 else:
