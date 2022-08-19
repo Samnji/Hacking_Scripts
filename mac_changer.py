@@ -42,7 +42,7 @@ else:
 	print("Invalid number of arguments.")
 	print("Syntax: python mac_changer.py <-i> <-m>")
 	print("Check help")
-	print("Syntax: python mac_changer.py <-h> <-m>")
+	print("Syntax: python mac_changer.py <-h>")
 	
 print('-' * 50)
 
