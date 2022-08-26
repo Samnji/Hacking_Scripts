@@ -1,5 +1,5 @@
 import pywhatkit
 import pyautogui
 
-pywhatkit.sendwhatmsg("+254793646304", "#HACK3D IS THE WORD", 13, 49)
+pywhatkit.sendwhatmsg("+254745491093", "#HACK3D IS THE WORD", 14, 33)
 pyautogui.press("enter")
